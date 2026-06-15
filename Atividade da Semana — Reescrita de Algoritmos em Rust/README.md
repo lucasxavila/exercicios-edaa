@@ -1,6 +1,6 @@
 # Atividade da Semana: Reescrita de Algoritmos em Rust
 
-Este repositório contém a reescrita de 10 algoritmos de Python para Rust, como parte da disciplina de Estrutura de Dados e Algoritmos.
+Esta pasta contém a reescrita de 10 algoritmos de Python para Rust, como parte da disciplina de Estrutura de Dados e Algoritmos.
 
 ## Como Executar os Testes
 
